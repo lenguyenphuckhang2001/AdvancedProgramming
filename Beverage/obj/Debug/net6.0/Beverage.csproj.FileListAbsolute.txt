@@ -1,0 +1,15 @@
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\bin\Debug\net6.0\Beverage.exe
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\bin\Debug\net6.0\Beverage.deps.json
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\bin\Debug\net6.0\Beverage.runtimeconfig.json
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\bin\Debug\net6.0\Beverage.dll
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\bin\Debug\net6.0\Beverage.pdb
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\Beverage.csproj.AssemblyReference.cache
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\Beverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\Beverage.AssemblyInfoInputs.cache
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\Beverage.AssemblyInfo.cs
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\Beverage.csproj.CoreCompileInputs.cache
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\Beverage.dll
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\refint\Beverage.dll
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\Beverage.pdb
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\Beverage.genruntimeconfig.cache
+C:\Users\lengu\source\repos\BookingRestaurant\Beverage\obj\Debug\net6.0\ref\Beverage.dll
